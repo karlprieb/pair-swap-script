@@ -8,4 +8,10 @@ The script receive two parameters:
 the list should be separated by commas
 
 Example:
-./pair-swap.sh -a ania,tom,john -f megan,james,sarah
+
+`$ bash pair-swap.sh -a ania,tom,john -f megan,james,sarah`
+
+
+On OXS you could need install `coreutils`:
+
+`$ brew install coreutils`
